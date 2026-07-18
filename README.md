@@ -31,8 +31,3 @@ O banco foi normalizado e estruturado com foco em integridade referencial. Ele �
 * **Garantia de Qualidade de Dados:** Uso de constraints `NOT NULL` e `ENUM` para evitar inserções inconsistentes ou nulas no sistema.
 * **Integridade Referencial:** Implementação rigorosa de `FOREIGN KEYS` para garantir que nenhum livro seja cadastrado sem um autor ou editora válidos.
 * **Pronto para Análise:** A estrutura foi pensada para facilitar consultas complexas (JOINs), servindo como uma excelente base para extração de insights, elaboração de relatórios ou futuras integrações com scripts de análise em Python.
-
-## 🚀 Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
